@@ -1,0 +1,16 @@
+{
+  "name": "rns-presale-monitor",
+  "version": "1.0.0",
+  "description": "24/7 Telegram bot to monitor RNS presale deposits",
+  "main": "monitor.js",
+  "scripts": {
+    "start": "node monitor.js"
+  },
+  "dependencies": {
+    "axios": "^1.6.0",
+    "fs": "^0.0.1-security"
+  },
+  "keywords": ["telegram", "bot", "ethereum", "presale", "monitor"],
+  "author": "nullm1nt",
+  "license": "MIT"
+}
