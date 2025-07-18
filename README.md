@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # RNS Presale Monitor Bot
 
 24/7 Telegram bot that monitors ETH deposits to the RNS presale address and sends notifications to your Telegram group.
@@ -44,3 +45,6 @@
 
 ## Monitoring Status
 The bot automatically tracks the last processed transaction to ensure no duplicates are sent.
+=======
+# rns-presale-monitor
+>>>>>>> 6ff8feb9ac6c42e921590f6f83c0879de43ab6ed
